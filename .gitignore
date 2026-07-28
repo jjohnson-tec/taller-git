@@ -1,0 +1,11 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Entornos y variables
+.env
+*.log
+
+# Dependencias (por si extienden el proyecto)
+node_modules/
+dist/
