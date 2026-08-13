@@ -9,3 +9,24 @@ Thumbs.db
 # Dependencias (por si extienden el proyecto)
 node_modules/
 dist/
+ 
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+
+# Pytest
+.pytest_cache/
+
+# Packaging
+dist/
+build/
+*.egg-info/
+
+# Editor files
+.vscode/
+*.swp
