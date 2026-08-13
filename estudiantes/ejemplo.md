@@ -1,4 +1,4 @@
 # Perfil de Estudiante
-* **Nombre:** [Tu Nombre]
-* **Carrera / Área:** [Tu Carrera]
+* **Nombre:** [Deylan]
+* **Carrera / Área:** [Compu]
 * **Comando favorito de Git:** `git status`
